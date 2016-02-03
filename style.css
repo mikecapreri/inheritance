@@ -2,6 +2,11 @@
 
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #BFE59D;
+}
+
+#exercise {
+
 }
 
 #para1 {
@@ -10,6 +15,7 @@ body {
 
 h2 {
   font-weight: normal;
+  color: #A974A9;
 }
 
 #para1 {
@@ -26,4 +32,8 @@ h2 {
 
 #para4 {
   font-weight: 900;
+}
+
+h3 {
+  color: #FFFA8F;
 }
